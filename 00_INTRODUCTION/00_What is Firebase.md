@@ -1,6 +1,6 @@
 # 00_What is Firebase
 
-![image-20230110150440948](../imges/00_What is Firebase/image-20230110150440948.png)
+![image](https://user-images.githubusercontent.com/99783474/211482461-9e218e1d-548e-4669-955c-efede4e8d5b7.png)
 
 ##### 🔵 Firebase는 처음에 데이터베이스이었고 구글에 의해 확장하기 시작했다. 
 
