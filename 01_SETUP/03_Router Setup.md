@@ -6,7 +6,7 @@
 npm i react-router-dom@5.3.0
 ```
 
-![image-20230110180627136](../imges/03_Router Setup/image-20230110180627136.png)
+![image](https://user-images.githubusercontent.com/99783474/212054943-1607d293-f1c8-49a1-b2d5-b04575eb83cf.png)
 
 
 
@@ -57,13 +57,13 @@ export default AppRouter;
 useState(false);
 ```
 
-![image-20230110181255580](../imges/03_Router Setup/image-20230110181255580.png)
+![image](https://user-images.githubusercontent.com/99783474/212054974-a7f723d7-db01-4811-9e61-62facceed8ca.png)
 
 ```
 useState(true);
 ```
 
-![image-20230110181329704](../imges/03_Router Setup/image-20230110181329704.png)
+![image](https://user-images.githubusercontent.com/99783474/212054997-e4e81644-2b88-4f35-b6d6-305ae9ee0190.png)
 
 ---
 

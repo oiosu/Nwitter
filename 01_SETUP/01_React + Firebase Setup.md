@@ -6,7 +6,7 @@
 npx create-react-app nwitter
 ```
 
-![image-20230110162741318](../imges/01_React + Firebase Setup/image-20230110162741318.png)
+![image](https://user-images.githubusercontent.com/99783474/212053030-e65219a7-16de-4d99-80e4-a2a86ad20227.png)
 
 
 
@@ -32,15 +32,15 @@ function App() {
 export default App;
 ```
 
-![image-20230110164042704](../imges/01_React + Firebase Setup/image-20230110164042704.png)
+![image](https://user-images.githubusercontent.com/99783474/212053076-4240b30a-bd6a-4a96-b2a0-27ab709854cd.png)
 
 
 
 ##### ◼ Firebase에서 프로젝트 생성하기 
 
-![image-20230110164418904](../imges/01_React + Firebase Setup/image-20230110164418904.png)
+![image](https://user-images.githubusercontent.com/99783474/212053097-40276b5f-b319-4d4c-b33e-2b57eaa6c2f3.png)
 
-![image-20230110164525933](../imges/01_React + Firebase Setup/image-20230110164525933.png)
+![image](https://user-images.githubusercontent.com/99783474/212053124-5405da2c-3652-4346-8e62-cfb9961ba39d.png)
 
 
 
@@ -81,7 +81,7 @@ export default firebase.initializeApp(firebaseConfig);
 npm run start
 ```
 
-![image-20230110165918978](../imges/01_React + Firebase Setup/image-20230110165918978.png)
+![image](https://user-images.githubusercontent.com/99783474/212053160-8ea182e9-93a5-42ae-8b8d-d99e0ab09109.png)
 
 > 에러사항 없이 잘 작동하는 것을 확인할 수 있다. 
 
