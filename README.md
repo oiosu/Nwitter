@@ -1,5 +1,5 @@
 # 🌳 Nwitter
-> Twitter (트위터 클론코딩) _ nomadcoders
+> Nwitter _ nomadcoders
 
 #### [00 _ What is Firebase](https://github.com/oiosu/Nwitter/blob/master/00_INTRODUCTION/00_What%20is%20Firebase.md)        
 #### [01 _ When To Use Firebase](https://github.com/oiosu/Nwitter/blob/master/00_INTRODUCTION/01_When%20To%20Use%20Firebase.md)
